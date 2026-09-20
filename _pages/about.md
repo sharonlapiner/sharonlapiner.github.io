@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Lapiner%2C%20Sharon%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
