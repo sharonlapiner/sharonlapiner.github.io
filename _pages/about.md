@@ -1,9 +1,9 @@
 ---
 layout: about
 title: about
-permalink: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Lapiner%2C%20Sharon%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+[My publications on NASA/ADS]([https://ui.adsabs.harvard.edu/search/...](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Lapiner%2C%20Sharon%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0))
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,12 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
