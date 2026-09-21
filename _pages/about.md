@@ -1,3 +1,9 @@
+<style>
+:root {
+  --global-theme-color: #e8612c !important;
+}
+</style>
+
 ---
 layout: about
 title: about
@@ -28,7 +34,3 @@ More broadly, I am drawn to problems at the boundary between regimes, using simi
 
 [My publications on NASA/ADS](https://tinyurl.com/sharon-lapiner-ads)
 
-
-:root {
-  --global-theme-color: #e8612c !important;
-}
