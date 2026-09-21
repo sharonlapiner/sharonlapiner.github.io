@@ -14,7 +14,7 @@ We utilize high-resolution cosmological simulations to reveal that high-redshift
 [Published paper](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.4515L/abstract)
 
 <figure>
-  <img src="{{ site.baseurl }}/assets/img/bn2d.png" width="100%">
+  <img src="{{ site.baseurl }}/assets/img/bn2d.png" width="200%">
   <figcaption></figcaption>
 </figure>
 
