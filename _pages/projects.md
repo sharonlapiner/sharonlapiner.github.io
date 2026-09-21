@@ -63,3 +63,8 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+
+<style>
+  h2.category { color: var(--global-text-color) !important; }
+</style>
