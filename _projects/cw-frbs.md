@@ -14,4 +14,4 @@ The high rates of FRBs that are expected, even at high redshifts, may still enab
 Our model further predicts that if turbulent cloudlets exist in the CGM of intervening massive haloes with a volume-filling fraction of $f_{\rm V}\gtrsim10^{-3}$, they are expected to cause considerable cumulative scattering along an average sightline, which would result in a significant correlation between the total scattering time and source redshifts.
 The lack of such a correlation in current observations may imply that the cool gas in the CGM has substantial non-thermal pressure, which would reduce its density, or significant damping of small-scale density fluctuations. Forthcoming localised FRB samples can map these constraints onto bounds on volume-filling fractions, densities, cloud sizes, and the strength of turbulence. 
 
-![]({{ site.baseurl }}/assets/img/scatt.png)
+<img src="{{ site.baseurl }}/assets/img/scatt.png" width="80%">
