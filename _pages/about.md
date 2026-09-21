@@ -20,6 +20,7 @@ latest_posts:
   enabled: false
 ---
 
+
 <style>
 :root {
   --global-theme-color: #e8612c !important;
