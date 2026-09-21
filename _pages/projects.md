@@ -69,8 +69,7 @@ horizontal: false
   h2.category { color: var(--global-text-color) !important; }
   hr { border-color: var(--global-divider-color) !important; }
 </style> -->
-
 <style>
 h2.category { color: var(--global-theme-color) !important; }
-hr { border-color: var(--global-theme-color) !important; }
+.projects hr { border-color: var(--global-theme-color) !important; border-top-width: 1px !important; opacity: 1 !important; }
 </style>
