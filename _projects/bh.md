@@ -2,8 +2,8 @@
 layout: page
 title: "Compaction-Driven Black Hole Growth"
 description: "Compaction-driven black hole growth and the transition from slow to rapid growth at the golden halo mass.."
-img: 
-importance: 4
+img: assets/img/bh.png
+importance: 5
 category: past
 ---
 
