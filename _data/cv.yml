@@ -1,7 +1,7 @@
 cv:
   name: Sharon Lapiner
   label: Scientist
-  email: sharon.lapiner@mail..huji.ac.il
+  email: "<a href='mailto:sharon.lapiner@mail.huji.ac.il'>sharon.lapiner@mail.huji.ac.il</a>"
   location: HUJI
   image: ""
   summary: 
