@@ -71,5 +71,5 @@ horizontal: false
 </style> -->
 <style>
 h2.category { color: var(--global-theme-color) !important; }
-.projects hr { border-color: var(--global-theme-color) !important; border-top-width: 1px !important; opacity: 1 !important; }
+.projects hr { border-bottm-color: var(--global-theme-color) !important; border-top-width: 1px !important; opacity: 1 !important; }
 </style>
