@@ -72,6 +72,6 @@ horizontal: false
 <style>
 h2.category { color: var(--global-theme-color) !important; }
 hr.category { border-color: var(--global-theme-color) !important; border-top-width: 1px !important; opacity: 1 !important; }
-.card-title { font-size: 0.9rem !important; }
+.card-title { font-size: 0.98frem !important; }
 </style>
 
