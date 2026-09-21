@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wet Compaction to a Blue Nugget: a Critical Phase in Galaxy Evolution"
-description: Galaxy evolution in cosmological simulations: compaction events and the blue and red nugget phases at high redshift.
+description: "Galaxy evolution in cosmological simulations: compaction events and the blue and red nugget phases at high redshift."
 img: 
 importance: 2
 category: past
