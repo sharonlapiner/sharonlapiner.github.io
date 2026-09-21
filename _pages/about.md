@@ -24,8 +24,7 @@ latest_posts:
 :root {
   --global-theme-color: #e8612c !important;
 }
-.navbar .nav-link:hover,
-.navbar .nav-item.active > .nav-link {
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: #e8612c !important;
 }
 </style>
