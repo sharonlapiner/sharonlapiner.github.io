@@ -2,7 +2,7 @@
 layout: page
 title: "Probing the Cosmic Web with Fast Radio Bursts: I. Scintillation"
 description: "Scintillation of FRB signals as probes of multiphase gas in cosmic web sheets, filaments, and the CGM."
-img: assets/img/scint.png
+img: assets/img/scint.pdf
 importance: 2
 category: current
 ---
