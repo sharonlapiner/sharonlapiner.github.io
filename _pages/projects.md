@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My projects
+description: 
 nav: true
 nav_order: 3
 display_categories: [current, past, future]
