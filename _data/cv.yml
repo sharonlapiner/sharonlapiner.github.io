@@ -2,10 +2,11 @@ cv:
   name: Sharon Lapiner
   label: Scientist
   email: "<a href='mailto:sharon.lapiner@mail.huji.ac.il'>sharon.lapiner@mail.huji.ac.il</a>"
+  orchid_id: 0009-0004-0973-3232
   location: HUJI
   image: ""
   summary: 
-  orchid_id: 0009-0004-0973-3232
+  
 
   # social_networks:
   #   - network: X
