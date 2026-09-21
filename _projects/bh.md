@@ -16,13 +16,6 @@ We study the interplay between galaxy evolution and central black-hole (BH) grow
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/bh.png" width="50%">
-  <figcaption>Compaction-driven black-hole growth in the eight {NewHorizon} galaxies.
-The evolution tracks of black-hole mass versus bulge stellar mass $M_{\rm bul}$
-show (supernova-driven) suppression of black-hole growth below
-$M_{\rm bul}\sim 10^{10} {\,\rm M_{\odot}}$, 
-turning into a rapid growth near the critical mass,
-likely driven by compaction events (squares).
-Black holes of $\sim 10^{5} {\,\rm M_{\odot}}$ in galaxies of $M_{\rm bul}$ \sim 10^{9.5} {\,\rm M_{\odot}}$
-are predicted to lie below the standard linear relation.</figcaption>
+  <figcaption>Compaction-driven black-hole growth in the eight {NewHorizon} galaxies. The evolution tracks of black-hole mass versus bulge stellar mass $M_{\rm bul}$ show (supernova-driven) suppression of black-hole growth below $M_{\rm bul}\sim 10^{10} {\,\rm M_{\odot}}$, turning into a rapid growth near the critical mass, likely driven by compaction events (squares). Black holes of $\sim 10^{5} {\,\rm M_{\odot}}$ in galaxies of $M_{\rm bul} \sim 10^{9.5} {\,\rm M_{\odot}}$ are predicted to lie below the standard linear relation.</figcaption>
 </figure>
 
