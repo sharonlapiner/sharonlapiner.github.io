@@ -11,3 +11,9 @@ category: past
 We study the interplay between galaxy evolution and central black-hole (BH) growth using the {NewHorizon} cosmological simulation. BH growth is slow when the dark-matter halo is below a golden mass of $M_{\rm v} \sim 10^{12} {\,\rm M_{\odot}}$, and rapid above it. The early suppression is primarily due to gas removal by supernova (SN) feedback in the shallow potential well, predicting that BHs of $\sim 10^5 {\,\rm M_{\odot}}$ tend to lie below the linear relation with bulge mass. Rapid BH growth is allowed when the halo is massive enough to lock in the SN ejecta by its deep potential well and its heated circum-galactic medium (CGM). The onset of BH growth between these two zones is triggered by a wet-compaction event, caused, e.g., by mergers or counter-rotating streams. It brings gas that lost angular momentum into the inner-$1{\,\rm kpc}$ 'blue nugget' and causes major transitions in the galaxy structural, kinematic and compositional properties, including the onset of star-formation quenching. The compaction events are confined to the golden mass by the same mechanisms of SN feedback and hot CGM.  The onset of BH growth is associated with its sinkage to the center due to the compaction-driven deepening of the potential well and the associated dynamical friction. The galaxy golden mass is thus imprinted as a threshold for rapid BH growth, allowing the AGN feedback to keep the CGM hot and maintain long-term quenching. AGN feedback is not causing the onset of quenching; they are both caused by a compaction event when the mass is between the SN and hot-CGM zones.
 
 [Published paper](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505..172L/abstract)
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/bh.png" width="50%">
+  <figcaption></figcaption>
+</figure>
+
