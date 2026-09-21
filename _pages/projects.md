@@ -65,7 +65,12 @@ horizontal: false
 </div>
 
 
-<style>
+<!-- <style>
   h2.category { color: var(--global-text-color) !important; }
   hr { border-color: var(--global-divider-color) !important; }
+</style> -->
+
+<style>
+h2.category { color: var(--global-theme-color) !important; }
+hr { border-color: var(--global-theme-color) !important; }
 </style>
