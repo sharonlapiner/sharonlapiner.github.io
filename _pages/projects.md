@@ -9,6 +9,16 @@ display_categories: [current, past, future]
 horizontal: false
 ---
 
+<style>
+:root {
+  --global-theme-color: #e8612c !important;
+}
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #e8612c !important;
+}
+</style>
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
