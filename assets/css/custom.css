@@ -3,5 +3,5 @@
 }
 
 h2.category {
-  color: var(--global-text-color) !important;
+  color: red !important;
 }
