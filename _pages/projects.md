@@ -67,5 +67,5 @@ horizontal: false
 
 <style>
   h2.category { color: var(--global-text-color) !important; }
-  hr.category { border-color: var(--global-text-color) !important; }
+  hr { border-color: var(--global-divider-color) !important; }
 </style>
