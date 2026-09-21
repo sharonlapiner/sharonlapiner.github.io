@@ -3,7 +3,7 @@ layout: page
 title: "Probing the Cosmic Web with Fast Radio Bursts: III. Dispersion measure"
 description: Soon...
 # img: assets/img/dm.png
-importance: 1
+importance: 3
 category: current
 ---
 
