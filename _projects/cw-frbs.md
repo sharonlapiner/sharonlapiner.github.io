@@ -2,7 +2,7 @@
 layout: page
 title: "Probing the Cosmic Web with Fast Radio Bursts: I. Scattering"
 description: Scattering of FRB signals as probes of ionized gas density fluctuations in the cosmic web.
-img:
+img: tau_Halo_fv_med_forWebsite
 importance: 1
 category: current
 ---
