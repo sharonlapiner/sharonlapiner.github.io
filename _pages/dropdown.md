@@ -8,3 +8,13 @@ children:
   - title: bookshelf
     permalink: /books/
 ---
+
+
+<style>
+:root {
+  --global-theme-color: #e8612c !important;
+}
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #e8612c !important;
+}
+</style>
