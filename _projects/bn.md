@@ -7,6 +7,14 @@ importance: 4
 category: past
 ---
 
+<style>
+:root {
+  --global-theme-color: #e8612c !important;
+}
+.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #e8612c !important;
+}
+</style>
 
 **Sharon Lapiner, Avishai Dekel, Jonathan Freundlich, Omri Ginzburg, Fangzhou Jiang, Michael Kretschmer, Sandro Tacchella, Daniel Ceverino, Joel Primack**
 
