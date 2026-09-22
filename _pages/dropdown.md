@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: false
+nav: true
 nav_order: 8
 dropdown: true
 children:
@@ -11,7 +11,7 @@ children:
     permalink: /teaching/
   - title: divider
   - title: CV
-    permalink: /CV/
+    permalink: /cv/
 
 ---
 
