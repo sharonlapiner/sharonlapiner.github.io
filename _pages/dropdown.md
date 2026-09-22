@@ -9,6 +9,7 @@ children:
     permalink: /books/
   - title: teaching
     permalink: /teaching/
+  - title: divider
   - title: CV
     permalink: /CV/
 
