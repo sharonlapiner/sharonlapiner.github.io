@@ -7,6 +7,11 @@ dropdown: true
 children:
   - title: bookshelf
     permalink: /books/
+  - title: teaching
+    permalink: /teaching/
+  - title: CV
+    permalink: /CV/
+
 ---
 
 
