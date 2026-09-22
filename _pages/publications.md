@@ -14,6 +14,11 @@ nav_order: 2
 .navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
   color: #e8612c !important;
 }
+.dropdown-item:hover,
+.dropdown-item:focus,
+.dropdown-item.active {
+  color: #e8612c !important;
+}
 </style>
 
 <!-- _pages/publications.md -->
