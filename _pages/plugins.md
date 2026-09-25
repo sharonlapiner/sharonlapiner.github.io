@@ -6,6 +6,9 @@ nav: false
 description: featured and bundled plugin ecosystem catalog for al-folio v1.x
 ---
 
+
+{% include theme_color.html %}
+
 `al-folio` `v1.x` is a starter with plugin-owned runtime features.
 This page lists plugins recognized in the ecosystem catalog (`_data/featured_plugins.yml`).
 
