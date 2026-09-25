@@ -35,6 +35,8 @@ latest_posts:
 }
 </style> -->
 
+{% include theme_color.html %}
+
 
 I am a postdoctoral researcher at the Racah Institute of Physics, The Hebrew University of Jerusalem (HUJI). I received my B.Sc. from the Open University of Israel and my Ph.D. from HUJI, where I studied galaxy evolution using cosmological simulations.
 
