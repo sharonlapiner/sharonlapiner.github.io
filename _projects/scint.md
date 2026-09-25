@@ -32,7 +32,7 @@ Filaments and sheets can suppress MW scintillation from sources at $z_\mathrm{S}
 To provide testable predictions, we estimate the fraction of FRBs expected to encounter CWOs that may suppress MW scintillation below a given frequency, and express this as a function of the average extragalactic dispersion measure.
 Future FRB samples could map these constraints onto bounds on the existence and properties of cloudlets in CWOs, such as their density, size, $f_\mathrm{v}$, and turbulence. -->
 
-<!-- [Submitted paper](https://ui.adsabs.harvard.edu/abs/xxxxx/abstract) -->
+
 
 <!-- [Submitted paper]({{ site.data.links.scint }}) -->
 

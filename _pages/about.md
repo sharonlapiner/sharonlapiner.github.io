@@ -21,7 +21,7 @@ latest_posts:
 ---
 
 
-<style>
+<!-- <style>
 :root {
   --global-theme-color: #e8612c !important;
 }
@@ -33,7 +33,7 @@ latest_posts:
 .dropdown-item.active {
   color: #e8612c !important;
 }
-</style>
+</style> -->
 
 
 I am a postdoctoral researcher at the Racah Institute of Physics, The Hebrew University of Jerusalem (HUJI). I received my B.Sc. from the Open University of Israel and my Ph.D. from HUJI, where I studied galaxy evolution using cosmological simulations.
