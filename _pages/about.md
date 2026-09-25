@@ -44,3 +44,4 @@ More broadly, I am drawn to problems at the boundary between regimes, using simi
 
 [My publications on NASA/ADS](https://tinyurl.com/sharon-lapiner-ads)
 
+[My publications on NASA/ADS]({{ site.data.links.publist }})
