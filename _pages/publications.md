@@ -23,6 +23,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+[My publications on NASA/ADS]({{ site.data.links.publist }})
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}

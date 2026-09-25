@@ -23,3 +23,17 @@ category: current
 
 **Sharon Lapiner, Nir Mandelker, Paz Beniamini, S. Peng Oh**
 
+
+
+<!-- [Published paper]({{ site.data.links.dm }}) -->
+
+<!-- abstract -->
+
+
+<!-- <figure>
+  <img src="{{ site.baseurl }}/assets/img/dm.png" width="50%">
+  <figcaption>caption</figcaption>
+</figure>
+ -->
+
+

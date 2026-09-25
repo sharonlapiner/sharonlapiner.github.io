@@ -42,6 +42,6 @@ My current research focuses on fast radio bursts (FRBs) as probes of diffuse ion
 
 More broadly, I am drawn to problems at the boundary between regimes, using similar analytic tools to connect seemingly different systems, from the large-scale cosmic web to the immediate environments of FRB sources.
 
-[My publications on NASA/ADS](https://tinyurl.com/sharon-lapiner-ads)
+<!-- [My publications on NASA/ADS](https://tinyurl.com/sharon-lapiner-ads) -->
 
 [My publications on NASA/ADS]({{ site.data.links.publist }})
