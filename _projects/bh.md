@@ -7,20 +7,8 @@ importance: 5
 category: past
 ---
 
-<style>
-:root {
-  --global-theme-color: #e8612c !important;
-}
-.navbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
-  color: #e8612c !important;
-}
-.dropdown-item:hover,
-.dropdown-item:focus,
-.dropdown-item.active {
-  color: #e8612c !important;
-}
-</style>
 
+{% include theme_color.html %}
 
 **Sharon Lapiner, Avishai Dekel, Yohan Dubois**
 
