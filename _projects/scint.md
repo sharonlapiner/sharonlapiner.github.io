@@ -17,7 +17,7 @@ We consider the formation of multiphase gas in cosmic web objects (CWOs) through
 
 
 
-[Submitted; will be on arXiv next week]({{ site.data.links.scint }})
+[Submitted paper]({{ site.data.links.scint }})
 
 <figure>
   <img src="{{ site.baseurl }}/assets/img/scint.png" width="50%">
