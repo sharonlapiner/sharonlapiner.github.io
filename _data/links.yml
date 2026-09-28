@@ -7,9 +7,9 @@ bh: 'https://ui.adsabs.harvard.edu/abs/2021MNRAS.505..172L/abstract'
 
 scatt: 'https://ui.adsabs.harvard.edu/abs/2026A%26A...712A.108L/abstract'
 
-# scint: 'https://ui.adsabs.harvard.edu/abs/arXiv:2609.31106/abstract'
+scint: 'https://ui.adsabs.harvard.edu/abs/2026arXiv260931106L/abstract'
 
-scint: 'https://arxiv.org/abs/2609.31106'
+# scint: 'https://arxiv.org/abs/2609.31106'
 
 # dm: ''
 
